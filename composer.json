@@ -1,0 +1,14 @@
+{
+    "name": "michael/uts",
+    "autoload": {
+        "psr-4": {
+            "Michael\\Uts\\": "src/"
+        }
+    },
+    "require": {
+        "gregwar/captcha-bundle": "^1.0",
+        "gregwar/captcha": "^1.2",
+        "setasign/fpdf": "1.8",
+        "phpoffice/phpspreadsheet": "^1.28"
+    }
+}
